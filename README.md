@@ -1,2 +1,2 @@
-# forphishingFace
+# phishingFace
 Template facebook phishing
